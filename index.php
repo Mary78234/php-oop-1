@@ -10,7 +10,7 @@ $room1->setOscar('Miglior film straniero');
 //$room2->setOscar('Nomination Miglior montaggio');
 
 //carco se ci sono eventuali note
-$room2->note = 'Note: film in bianco e nero.';
+$room2->note = 'Titolo originale \'The Great Escape\'.';
 
 ?>
 <!DOCTYPE html>
