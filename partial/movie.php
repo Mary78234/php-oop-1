@@ -27,6 +27,12 @@ class Movie
   /* 
   METODI PUBBLICI
   */
+  /**
+   * setOscar
+   *
+   * @param [text] $_oscar
+   * @return void
+   */
   public function setOscar($_oscar)
   {
     $this->oscar = $_oscar;
